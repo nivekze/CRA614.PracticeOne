@@ -16,5 +16,9 @@ namespace Cryptography
         public abstract int Crypt(int numToCrypt);
 
         public abstract int Decrypt(int numToDecrypt);
+
+        public int GetKey() {
+            return Key;
+        }
     }
 }
