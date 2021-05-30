@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cryptography", "Cryptograph
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoTestConsole", "CryptoTestConsole\CryptoTestConsole.csproj", "{ABFA1D54-9462-4EED-B343-03E0D839709F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoTestWinForm", "CryptoTestWinForm\CryptoTestWinForm.csproj", "{4EFC8087-F246-444A-BE7E-D55BEECA7BE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{ABFA1D54-9462-4EED-B343-03E0D839709F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABFA1D54-9462-4EED-B343-03E0D839709F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABFA1D54-9462-4EED-B343-03E0D839709F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EFC8087-F246-444A-BE7E-D55BEECA7BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EFC8087-F246-444A-BE7E-D55BEECA7BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EFC8087-F246-444A-BE7E-D55BEECA7BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EFC8087-F246-444A-BE7E-D55BEECA7BE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
