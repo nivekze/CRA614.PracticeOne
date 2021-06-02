@@ -1,7 +1,11 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Kevin Alvarez</Authors>
+    <Company>UDB-CRA614</Company>
+    <Product>Practice One</Product>
+    <Description>Simple library class that holds some basic samples of crypt/decrypt algorithms</Description>
   </PropertyGroup>
 
 </Project>

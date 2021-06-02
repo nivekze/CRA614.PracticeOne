@@ -1,8 +1,12 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Company>UDB-CRA614</Company>
+    <Authors>Kevin Alvarez</Authors>
+    <Product>Practice One</Product>
+    <Description>Simple console implementation of Cryptography library</Description>
   </PropertyGroup>
 
   <ItemGroup>

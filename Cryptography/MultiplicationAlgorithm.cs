@@ -8,10 +8,7 @@ namespace Cryptography
     {
         public MultiplicationAlgorithm() : base() { }
 
-        public MultiplicationAlgorithm(int key)
-        {
-            Key = key;
-        }
+        public MultiplicationAlgorithm(int key) : base(key) { }
 
         public override int Crypt(int numToCrypt)
         {

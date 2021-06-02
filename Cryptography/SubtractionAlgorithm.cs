@@ -8,9 +8,7 @@ namespace Cryptography
     {
         public SubtractionAlgorithm() : base() { }
 
-        public SubtractionAlgorithm(int key) {
-            Key = key;
-        }
+        public SubtractionAlgorithm(int key) : base(key) { }
 
         public override int Crypt(int numToCrypt)
         {

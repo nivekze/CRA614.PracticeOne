@@ -8,10 +8,7 @@ namespace Cryptography
     {
         public XORAlgorithm() : base() { }
 
-        public XORAlgorithm(int key)
-        {
-            Key = key;
-        }
+        public XORAlgorithm(int key) : base(key) { }
 
         public override int Crypt(int numToCrypt)
         {
