@@ -4,10 +4,10 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UseWindowsForms>true</UseWindowsForms>
-    <Description />
+    <Description>Simple Windows form implementation of Cryptography library</Description>
     <Authors>Kevin Alvarez</Authors>
     <Company>UDB-CRA614</Company>
-    <Product>Simple Windows form implementation of Cryptography library</Product>
+    <Product>Practice One</Product>
   </PropertyGroup>
 
   <ItemGroup>
